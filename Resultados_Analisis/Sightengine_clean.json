@@ -1,0 +1,5002 @@
+{
+    "Imagen1": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 17.0
+    },
+    "Imagen2": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen3": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen4": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen5": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen6": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen7": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen8": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen9": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen10": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen11": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen12": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen13": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen14": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen15": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen16": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen17": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen18": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen19": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen20": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen21": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen22": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen23": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen24": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen25": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen26": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen27": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen28": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen29": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen30": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen31": {
+        "clasificacion": "real",
+        "Veredicto": "AI Generated",
+        "AI Score": 56.0
+    },
+    "Imagen32": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen33": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen34": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen35": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen36": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 12.0
+    },
+    "Imagen37": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen38": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen39": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen40": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen41": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen42": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen43": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen44": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen45": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen46": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen47": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen48": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen49": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen50": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen51": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen52": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen53": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen54": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen55": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen56": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen57": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen58": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen59": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen60": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen61": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen62": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen63": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen64": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen65": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen66": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen67": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen68": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 23.0
+    },
+    "Imagen69": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen70": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen71": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen72": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen73": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen74": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen75": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen76": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen77": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen78": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen79": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen80": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen81": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen82": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen83": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen84": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen85": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen86": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen87": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen88": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen89": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen90": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen91": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen92": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen93": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen94": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen95": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen96": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen97": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen98": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen99": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen100": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen101": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen102": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen103": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen104": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen105": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen106": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen107": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen108": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen109": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen110": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen111": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen112": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen113": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen114": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen115": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen116": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen117": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 6.0
+    },
+    "Imagen118": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen119": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen120": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen121": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen122": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen123": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen124": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen125": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen126": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen127": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen128": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 7.0
+    },
+    "Imagen129": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen130": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen131": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen132": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen133": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen134": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen135": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen136": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen137": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen138": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen139": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen140": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen141": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen142": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen143": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen144": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen145": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen146": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen147": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen148": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen149": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen150": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen151": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen152": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen153": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen154": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen155": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen156": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen157": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen158": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen159": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen160": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen161": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen162": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen163": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen164": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen165": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen166": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen167": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen168": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen169": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen170": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen171": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen172": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen173": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen174": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen175": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen176": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen177": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen178": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen179": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen180": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen181": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen182": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen183": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen184": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen185": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen186": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen187": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen188": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen189": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen190": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen191": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen192": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen193": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen194": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen195": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen196": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen197": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen198": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen199": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen200": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen201": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen202": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 47.0
+    },
+    "Imagen203": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen204": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen205": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen206": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen207": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen208": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen209": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen210": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen211": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen212": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen213": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen214": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen215": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen216": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen217": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen218": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen219": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen220": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen221": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen222": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen223": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen224": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen225": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen226": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen227": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen228": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen229": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen230": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen231": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen232": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen233": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen234": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen235": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen236": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen237": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen238": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen239": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen240": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen241": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen242": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen243": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen244": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen245": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen246": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen247": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen248": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen249": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen250": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen251": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen252": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen253": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen254": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen255": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen256": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen257": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen258": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen259": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen260": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen261": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen262": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 7.0
+    },
+    "Imagen263": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen264": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen265": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen266": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen267": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen268": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 87.0
+    },
+    "Imagen269": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 15.0
+    },
+    "Imagen270": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 84.0
+    },
+    "Imagen271": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 34.0
+    },
+    "Imagen272": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen273": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen274": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen275": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen276": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen277": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen278": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 11.0
+    },
+    "Imagen279": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 15.0
+    },
+    "Imagen280": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen281": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen282": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 66.0
+    },
+    "Imagen283": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen284": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen285": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 25.0
+    },
+    "Imagen286": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 93.0
+    },
+    "Imagen287": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen288": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 93.0
+    },
+    "Imagen289": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 27.0
+    },
+    "Imagen290": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 93.0
+    },
+    "Imagen291": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen292": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen293": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen294": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 11.0
+    },
+    "Imagen295": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 94.0
+    },
+    "Imagen296": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 14.0
+    },
+    "Imagen297": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 10.0
+    },
+    "Imagen298": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 94.0
+    },
+    "Imagen299": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen300": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 94.0
+    },
+    "Imagen301": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen302": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 8.0
+    },
+    "Imagen303": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen304": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen305": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 5.0
+    },
+    "Imagen306": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen307": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen308": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen309": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen310": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 19.0
+    },
+    "Imagen311": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen312": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen313": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen314": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen315": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen316": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen317": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen318": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 94.0
+    },
+    "Imagen319": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen320": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen321": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 8.0
+    },
+    "Imagen322": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen323": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen324": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 92.0
+    },
+    "Imagen325": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen326": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen327": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen328": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen329": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 92.0
+    },
+    "Imagen330": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen331": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen332": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 80.0
+    },
+    "Imagen333": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 70.0
+    },
+    "Imagen334": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen335": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen336": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 92.0
+    },
+    "Imagen337": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen338": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 9.0
+    },
+    "Imagen339": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen340": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen341": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen342": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 43.0
+    },
+    "Imagen343": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen344": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen345": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen346": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 5.0
+    },
+    "Imagen347": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 55.0
+    },
+    "Imagen348": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 12.0
+    },
+    "Imagen349": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen350": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen351": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 94.0
+    },
+    "Imagen352": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 36.0
+    },
+    "Imagen353": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen354": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 8.0
+    },
+    "Imagen355": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen356": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen357": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen358": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen359": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen360": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen361": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 71.0
+    },
+    "Imagen362": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen363": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen364": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 20.0
+    },
+    "Imagen365": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen366": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 16.0
+    },
+    "Imagen367": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 22.0
+    },
+    "Imagen368": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 44.0
+    },
+    "Imagen369": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen370": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen371": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen372": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen373": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 88.0
+    },
+    "Imagen374": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen375": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 88.0
+    },
+    "Imagen376": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 56.0
+    },
+    "Imagen377": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen378": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 56.0
+    },
+    "Imagen379": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 51.0
+    },
+    "Imagen380": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen381": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 94.0
+    },
+    "Imagen382": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 80.0
+    },
+    "Imagen383": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 90.0
+    },
+    "Imagen384": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 70.0
+    },
+    "Imagen385": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen386": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen387": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 93.0
+    },
+    "Imagen388": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen389": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen390": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen391": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen392": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen393": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen394": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 24.0
+    },
+    "Imagen395": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 33.0
+    },
+    "Imagen396": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen397": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen398": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 84.0
+    },
+    "Imagen399": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen400": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen401": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen402": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen403": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen404": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 90.0
+    },
+    "Imagen405": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen406": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen407": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen408": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen409": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen410": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen411": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 13.0
+    },
+    "Imagen412": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen413": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen414": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen415": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen416": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen417": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 58.0
+    },
+    "Imagen418": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen419": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen420": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 18.0
+    },
+    "Imagen421": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen422": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen423": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen424": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 7.0
+    },
+    "Imagen425": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 63.0
+    },
+    "Imagen426": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 12.0
+    },
+    "Imagen427": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 67.0
+    },
+    "Imagen428": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen429": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 8.0
+    },
+    "Imagen430": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen431": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen432": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 6.0
+    },
+    "Imagen433": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen434": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 59.0
+    },
+    "Imagen435": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 75.0
+    },
+    "Imagen436": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 91.0
+    },
+    "Imagen437": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen438": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen439": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen440": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen441": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 13.0
+    },
+    "Imagen442": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen443": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen444": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen445": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen446": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen447": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen448": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen449": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen450": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen451": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen452": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 59.0
+    },
+    "Imagen453": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen454": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 12.0
+    },
+    "Imagen455": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen456": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen457": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen458": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen459": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen460": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen461": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen462": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen463": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen464": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 6.0
+    },
+    "Imagen465": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen466": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen467": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen468": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen469": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen470": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen471": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen472": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen473": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 13.0
+    },
+    "Imagen474": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen475": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen476": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen477": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen478": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen479": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen480": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen481": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 5.0
+    },
+    "Imagen482": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen483": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen484": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 73.0
+    },
+    "Imagen485": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen486": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen487": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 8.0
+    },
+    "Imagen488": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen489": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen490": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen491": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 34.0
+    },
+    "Imagen492": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen493": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen494": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen495": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen496": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen497": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen498": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen499": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen500": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 9.0
+    },
+    "Imagen501": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen502": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen503": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 12.0
+    },
+    "Imagen504": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen505": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen506": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 69.0
+    },
+    "Imagen507": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen508": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen509": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen510": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen511": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen512": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen513": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen514": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen515": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen516": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 5.0
+    },
+    "Imagen517": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen518": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen519": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen520": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen521": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen522": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen523": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen524": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen525": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 41.0
+    },
+    "Imagen526": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen527": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen528": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 8.0
+    },
+    "Imagen529": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen530": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen531": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen532": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen533": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 5.0
+    },
+    "Imagen534": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 25.0
+    },
+    "Imagen535": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen536": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen537": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen538": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen539": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 51.0
+    },
+    "Imagen540": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen541": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen542": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen543": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen544": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen545": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen546": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen547": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 53.0
+    },
+    "Imagen548": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen549": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen550": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen551": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 6.0
+    },
+    "Imagen552": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 56.0
+    },
+    "Imagen553": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen554": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 27.0
+    },
+    "Imagen555": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen556": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen557": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen558": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen559": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 23.0
+    },
+    "Imagen560": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 88.0
+    },
+    "Imagen561": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 97.0
+    },
+    "Imagen562": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen563": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen564": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 5.0
+    },
+    "Imagen565": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 77.0
+    },
+    "Imagen566": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen567": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen568": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 62.0
+    },
+    "Imagen569": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen570": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen571": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen572": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen573": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen574": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen575": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen576": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen577": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen578": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen579": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 29.0
+    },
+    "Imagen580": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 91.0
+    },
+    "Imagen581": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 91.0
+    },
+    "Imagen582": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 21.0
+    },
+    "Imagen583": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 40.0
+    },
+    "Imagen584": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen585": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 88.0
+    },
+    "Imagen586": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 8.0
+    },
+    "Imagen587": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 94.0
+    },
+    "Imagen588": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen589": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 6.0
+    },
+    "Imagen590": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen591": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 62.0
+    },
+    "Imagen592": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen593": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen594": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen595": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen596": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 12.0
+    },
+    "Imagen597": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen598": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen599": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 74.0
+    },
+    "Imagen600": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen601": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen602": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen603": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 93.0
+    },
+    "Imagen604": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 77.0
+    },
+    "Imagen605": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen606": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 5.0
+    },
+    "Imagen607": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 5.0
+    },
+    "Imagen608": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen609": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen610": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 5.0
+    },
+    "Imagen611": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 23.0
+    },
+    "Imagen612": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen613": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 92.0
+    },
+    "Imagen614": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen615": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 91.0
+    },
+    "Imagen616": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 6.0
+    },
+    "Imagen617": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 47.0
+    },
+    "Imagen618": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 21.0
+    },
+    "Imagen619": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 19.0
+    },
+    "Imagen620": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen621": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen622": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen623": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen624": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen625": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen626": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen627": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen628": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen629": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 84.0
+    },
+    "Imagen630": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen631": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen632": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen633": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 24.0
+    },
+    "Imagen634": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 55.0
+    },
+    "Imagen635": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen636": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 74.0
+    },
+    "Imagen637": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen638": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 74.0
+    },
+    "Imagen639": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 7.0
+    },
+    "Imagen640": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen641": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen642": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen643": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen644": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen645": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen646": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen647": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 87.0
+    },
+    "Imagen648": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen649": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 15.0
+    },
+    "Imagen650": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen651": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 31.0
+    },
+    "Imagen652": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen653": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 24.0
+    },
+    "Imagen654": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen655": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen656": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 25.0
+    },
+    "Imagen657": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen658": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen659": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen660": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen661": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 80.0
+    },
+    "Imagen662": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen663": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen664": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen665": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen666": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen667": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen668": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 6.0
+    },
+    "Imagen669": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen670": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen671": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen672": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen673": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 49.0
+    },
+    "Imagen674": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 61.0
+    },
+    "Imagen675": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 76.0
+    },
+    "Imagen676": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 97.0
+    },
+    "Imagen677": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen678": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen679": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen680": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen681": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 42.0
+    },
+    "Imagen682": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen683": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 25.0
+    },
+    "Imagen684": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen685": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen686": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen687": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen688": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen689": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen690": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen691": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen692": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen693": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen694": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 14.0
+    },
+    "Imagen695": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen696": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 15.0
+    },
+    "Imagen697": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 5.0
+    },
+    "Imagen698": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 93.0
+    },
+    "Imagen699": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 89.0
+    },
+    "Imagen700": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 69.0
+    },
+    "Imagen701": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen702": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen703": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen704": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen705": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen706": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen707": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen708": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen709": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen710": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen711": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen712": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen713": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen714": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen715": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 10.0
+    },
+    "Imagen716": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen717": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen718": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen719": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen720": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen721": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 48.0
+    },
+    "Imagen722": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 8.0
+    },
+    "Imagen723": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen724": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen725": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen726": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen727": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen728": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen729": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen730": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen731": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen732": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 53.0
+    },
+    "Imagen733": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 44.0
+    },
+    "Imagen734": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 8.0
+    },
+    "Imagen735": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 8.0
+    },
+    "Imagen736": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen737": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen738": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen739": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 97.0
+    },
+    "Imagen740": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen741": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 14.0
+    },
+    "Imagen742": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen743": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 10.0
+    },
+    "Imagen744": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 7.0
+    },
+    "Imagen745": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen746": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 82.0
+    },
+    "Imagen747": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 92.0
+    },
+    "Imagen748": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 8.0
+    },
+    "Imagen749": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 6.0
+    },
+    "Imagen750": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 65.0
+    },
+    "Imagen751": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 85.0
+    },
+    "Imagen752": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen753": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 51.0
+    },
+    "Imagen754": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen755": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen756": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen757": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen758": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen759": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 5.0
+    },
+    "Imagen760": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 85.0
+    },
+    "Imagen761": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen762": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen763": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen764": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen765": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 70.0
+    },
+    "Imagen766": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 20.0
+    },
+    "Imagen767": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen768": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen769": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen770": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen771": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 39.0
+    },
+    "Imagen772": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 62.0
+    },
+    "Imagen773": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen774": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen775": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen776": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 6.0
+    },
+    "Imagen777": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen778": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen779": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen780": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen781": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen782": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 93.0
+    },
+    "Imagen783": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen784": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen785": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen786": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen787": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 11.0
+    },
+    "Imagen788": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen789": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen790": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 7.0
+    },
+    "Imagen791": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen792": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen793": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen794": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen795": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen796": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen797": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen798": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen799": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen800": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen801": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen802": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen803": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen804": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 85.0
+    },
+    "Imagen805": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen806": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 6.0
+    },
+    "Imagen807": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 89.0
+    },
+    "Imagen808": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen809": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen810": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen811": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen812": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 96.0
+    },
+    "Imagen813": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 88.0
+    },
+    "Imagen814": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen815": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen816": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen817": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen818": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen819": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 49.0
+    },
+    "Imagen820": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen821": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen822": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen823": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen824": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen825": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 27.0
+    },
+    "Imagen826": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen827": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 93.0
+    },
+    "Imagen828": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen829": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen830": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 15.0
+    },
+    "Imagen831": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen832": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen833": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen834": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 95.0
+    },
+    "Imagen835": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen836": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen837": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen838": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen839": {
+        "clasificacion": "faceswap",
+        "Veredicto": "AI Generated",
+        "AI Score": 92.0
+    },
+    "Imagen840": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen841": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen842": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen843": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 28.0
+    },
+    "Imagen844": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 27.0
+    },
+    "Imagen845": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen846": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen847": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 9.0
+    },
+    "Imagen848": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen849": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen850": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen851": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen852": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen853": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen854": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen855": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen856": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen857": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen858": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen859": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen860": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen861": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen862": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen863": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen864": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen865": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen866": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen867": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen868": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen869": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen870": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen871": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "AI Generated",
+        "AI Score": 70.0
+    },
+    "Imagen872": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen873": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen874": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen875": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen876": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen877": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen878": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen879": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen880": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 6.0
+    },
+    "Imagen881": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen882": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen883": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 16.0
+    },
+    "Imagen884": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen885": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen886": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen887": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen888": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "AI Generated",
+        "AI Score": 50.0
+    },
+    "Imagen889": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen890": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen891": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 17.0
+    },
+    "Imagen892": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen893": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen894": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen895": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen896": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen897": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen898": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen899": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen900": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen901": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen902": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen903": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen904": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen905": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen906": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen907": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen908": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen909": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen910": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen911": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen912": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen913": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 17.0
+    },
+    "Imagen914": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen915": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen916": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen917": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen918": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen919": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen920": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 6.0
+    },
+    "Imagen921": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen922": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen923": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen924": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 12.0
+    },
+    "Imagen925": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen926": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen927": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen928": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen929": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen930": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen931": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen932": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen933": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 8.0
+    },
+    "Imagen934": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen935": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen936": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen937": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen938": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen939": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen940": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen941": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen942": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen943": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen944": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen945": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen946": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "AI Generated",
+        "AI Score": 93.0
+    },
+    "Imagen947": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "AI Generated",
+        "AI Score": 50.0
+    },
+    "Imagen948": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 12.0
+    },
+    "Imagen949": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen950": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 9.0
+    },
+    "Imagen951": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen952": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen953": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen954": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen955": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen956": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen957": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen958": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 14.0
+    },
+    "Imagen959": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 4.0
+    },
+    "Imagen960": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen961": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen962": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen963": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen964": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen965": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen966": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen967": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen968": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen969": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen970": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen971": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen972": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen973": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen974": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen975": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen976": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen977": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen978": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen979": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen980": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen981": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen982": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen983": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 3.0
+    },
+    "Imagen984": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen985": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen986": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen987": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen988": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen989": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen990": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen991": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen992": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen993": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 40.0
+    },
+    "Imagen994": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 11.0
+    },
+    "Imagen995": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen996": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen997": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen998": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.0
+    },
+    "Imagen999": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    },
+    "Imagen1000": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.0
+    }
+}

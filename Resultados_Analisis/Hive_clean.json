@@ -1,0 +1,502 @@
+{
+    "Imagen1": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.63
+    },
+    "Imagen2": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen3": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.41
+    },
+    "Imagen4": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 4.47
+    },
+    "Imagen5": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen6": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.01
+    },
+    "Imagen7": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 25.84
+    },
+    "Imagen8": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.77
+    },
+    "Imagen9": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 6.7
+    },
+    "Imagen10": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.0
+    },
+    "Imagen11": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 8.12
+    },
+    "Imagen12": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 11.82
+    },
+    "Imagen13": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 20.48
+    },
+    "Imagen14": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.52
+    },
+    "Imagen15": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.55
+    },
+    "Imagen16": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.06
+    },
+    "Imagen17": {
+        "clasificacion": "real",
+        "Veredicto": "AI Generated",
+        "AI Score": 63.41
+    },
+    "Imagen18": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 2.93
+    },
+    "Imagen19": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.81
+    },
+    "Imagen20": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.01
+    },
+    "Imagen21": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 1.58
+    },
+    "Imagen22": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.06
+    },
+    "Imagen23": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.11
+    },
+    "Imagen24": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 0.56
+    },
+    "Imagen25": {
+        "clasificacion": "real",
+        "Veredicto": "Human",
+        "AI Score": 3.98
+    },
+    "Imagen26": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 0.24
+    },
+    "Imagen27": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "AI Generated",
+        "AI Score": 64.25
+    },
+    "Imagen28": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 2.27
+    },
+    "Imagen29": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 7.78
+    },
+    "Imagen30": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 2.51
+    },
+    "Imagen31": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 0.13
+    },
+    "Imagen32": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 1.47
+    },
+    "Imagen33": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 0.02
+    },
+    "Imagen34": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 13.59
+    },
+    "Imagen35": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 2.25
+    },
+    "Imagen36": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 20.05
+    },
+    "Imagen37": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 10.07
+    },
+    "Imagen38": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 0.28
+    },
+    "Imagen39": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen40": {
+        "clasificacion": "deepfakes",
+        "Veredicto": "Human",
+        "AI Score": 0.34
+    },
+    "Imagen41": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 1.12
+    },
+    "Imagen42": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 0.11
+    },
+    "Imagen43": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 0.15
+    },
+    "Imagen44": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 0.09
+    },
+    "Imagen45": {
+        "clasificacion": "face2face",
+        "Veredicto": "AI Generated",
+        "AI Score": 70.66
+    },
+    "Imagen46": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 0.47
+    },
+    "Imagen47": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 0.17
+    },
+    "Imagen48": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 0.32
+    },
+    "Imagen49": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 0.18
+    },
+    "Imagen50": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 3.28
+    },
+    "Imagen51": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 14.38
+    },
+    "Imagen52": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 0.25
+    },
+    "Imagen53": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 0.06
+    },
+    "Imagen54": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 8.55
+    },
+    "Imagen55": {
+        "clasificacion": "face2face",
+        "Veredicto": "Human",
+        "AI Score": 0.66
+    },
+    "Imagen56": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 0.1
+    },
+    "Imagen57": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 22.11
+    },
+    "Imagen58": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 0.09
+    },
+    "Imagen59": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 0.01
+    },
+    "Imagen60": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 17.62
+    },
+    "Imagen61": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 1.58
+    },
+    "Imagen62": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "AI Generated",
+        "AI Score": 99.19
+    },
+    "Imagen63": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 28.93
+    },
+    "Imagen64": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 0.14
+    },
+    "Imagen65": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 0.92
+    },
+    "Imagen66": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 0.08
+    },
+    "Imagen67": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 36.97
+    },
+    "Imagen68": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 16.41
+    },
+    "Imagen69": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 8.8
+    },
+    "Imagen70": {
+        "clasificacion": "faceshifter",
+        "Veredicto": "Human",
+        "AI Score": 6.28
+    },
+    "Imagen71": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.36
+    },
+    "Imagen72": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.12
+    },
+    "Imagen73": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.31
+    },
+    "Imagen74": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.19
+    },
+    "Imagen75": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.72
+    },
+    "Imagen76": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.43
+    },
+    "Imagen77": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 1.19
+    },
+    "Imagen78": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.15
+    },
+    "Imagen79": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.4
+    },
+    "Imagen80": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.22
+    },
+    "Imagen81": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.52
+    },
+    "Imagen82": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 3.39
+    },
+    "Imagen83": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 8.41
+    },
+    "Imagen84": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.19
+    },
+    "Imagen85": {
+        "clasificacion": "faceswap",
+        "Veredicto": "Human",
+        "AI Score": 0.51
+    },
+    "Imagen86": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.03
+    },
+    "Imagen87": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 26.47
+    },
+    "Imagen88": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.15
+    },
+    "Imagen89": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.8
+    },
+    "Imagen90": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 1.08
+    },
+    "Imagen91": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 0.21
+    },
+    "Imagen92": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 4.26
+    },
+    "Imagen93": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 0.96
+    },
+    "Imagen94": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 0.11
+    },
+    "Imagen95": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 0.32
+    },
+    "Imagen96": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 0.26
+    },
+    "Imagen97": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 2.06
+    },
+    "Imagen98": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 13.82
+    },
+    "Imagen99": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 0.25
+    },
+    "Imagen100": {
+        "clasificacion": "neuraltextures",
+        "Veredicto": "Human",
+        "AI Score": 0.24
+    }
+}
